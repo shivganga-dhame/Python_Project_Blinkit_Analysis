@@ -28,3 +28,8 @@ The project includes several charts to visualize trends:
 ## 💻 Tech Stack
 * *Language:* Python
 * *Libraries:* Pandas, NumPy, Matplotlib
+
+* 
+## 👩‍💻 Author
+Shivganga Dhame  
+Aspiring Data Analyst | B.Tech Student
